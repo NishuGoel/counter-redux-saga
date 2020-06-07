@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  margin-top: 1rem;
+}
+.increment {
+  font-size: 30px;
+}
+.decrement {
+  font-size: 30px;
+  padding: 0 12px;
+  margin-left: 1rem;
+}
+.displayValue {
+  font-size: 30px;
+  padding: 10px 12px;
+}
